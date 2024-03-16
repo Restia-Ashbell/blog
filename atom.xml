@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://valaxy.site/</id>
-    <title>Valaxy Theme Yun</title>
-    <updated>2024-03-15T16:52:43.126Z</updated>
+    <id>https://sakura.wrxinyue.org/</id>
+    <title>Valaxy Theme Sakura</title>
+    <updated>2024-03-16T11:03:49.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>RESTIA</name>
         <email>i@valaxy.site</email>
         <uri>https://valaxy.site</uri>
     </author>
-    <link rel="alternate" href="https://valaxy.site/"/>
-    <link rel="self" href="https://valaxy.site/atom.xml"/>
-    <subtitle>Valaxy Theme Yun Preview.</subtitle>
+    <link rel="alternate" href="https://sakura.wrxinyue.org/"/>
+    <link rel="self" href="https://sakura.wrxinyue.org/atom.xml"/>
+    <subtitle>Valaxy Theme Sakura Preview.</subtitle>
     <logo>https://valaxy.site/valaxy-logo.png</logo>
-    <icon>https://valaxy.site/favicon.svg</icon>
+    <icon>https://sakura.wrxinyue.org/favicon.svg</icon>
     <rights>CC BY-NC-SA 4.0 2024 © RESTIA</rights>
     <entry>
         <title type="html"><![CDATA[Hello, Valaxy!]]></title>
-        <id>https://valaxy.site/posts/hello-valaxy</id>
-        <link href="https://valaxy.site/posts/hello-valaxy"/>
+        <id>https://sakura.wrxinyue.org/posts/hello-valaxy</id>
+        <link href="https://sakura.wrxinyue.org/posts/hello-valaxy"/>
         <updated>2022-04-01T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<h2>Valaxy</h2>
 <p>Next Generation Static Blog Framework.</p>
